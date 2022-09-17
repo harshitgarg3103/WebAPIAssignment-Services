@@ -1,0 +1,94 @@
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.csproj.AssemblyReference.cache
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.AssemblyInfoInputs.cache
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.AssemblyInfo.cs
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.csproj.CoreCompileInputs.cache
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.MvcApplicationPartsAssemblyInfo.cs
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.MvcApplicationPartsAssemblyInfo.cache
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\appsettings.Development.json
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\appsettings.json
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\APIAssignment.exe
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\APIAssignment.deps.json
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\APIAssignment.runtimeconfig.json
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\APIAssignment.dll
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\APIAssignment.pdb
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\scopedcss\bundle\APIAssignment.styles.css
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.csproj.CopyComplete
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.dll
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\refint\APIAssignment.dll
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.pdb
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.genruntimeconfig.cache
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\ref\APIAssignment.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\refint\APIAssignment.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.pdb
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\appsettings.json
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\APIAssignment.exe
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\APIAssignment.deps.json
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\APIAssignment.runtimeconfig.json
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\APIAssignment.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\APIAssignment.pdb
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.csproj.AssemblyReference.cache
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.AssemblyInfoInputs.cache
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.AssemblyInfo.cs
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\scopedcss\bundle\APIAssignment.styles.css
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.csproj.CopyComplete
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\APIAssignment.genruntimeconfig.cache
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\obj\Debug\net6.0\ref\APIAssignment.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hgarg1\OneDrive - Affinion Group\Desktop\Garg-Assignments\HarshitGarg-Assignments\JPMC-CodeBase\C#\HandsOn\APIAssignment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
